@@ -1,0 +1,40 @@
+body {
+  color: #4e9a06;
+  background-color: #2e3436;
+  font-family: Verdana, sans-serif;
+  padding: 35px;
+}
+
+h1,
+h2 {
+  font-family: monospace;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+  margin-top: 30px;
+}
+
+img {
+  width: 500px;
+  height: auto;
+  border: solid 5px #4e9a06;
+}
+
+p,
+li {
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+a:visited {
+  color: #4e9a06;
+}
+
+.recipe-steps li {
+  margin-bottom: 20px;
+}
